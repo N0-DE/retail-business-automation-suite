@@ -1,0 +1,16 @@
+Hi {CustomerName},
+
+This is a friendly courtesy reminder from {CompanyName}.
+We hope you are having a productive week!
+
+Our accounting ledger shows an outstanding balance of {BalanceAmount} on your account.
+
+Payment Details for Wire / Bank Transfer:
+A/C Name: {BankAccountName}
+A/C Number: {BankAccountNumber}
+Routing / IFSC: {BankRouting}
+
+If you have already processed this transaction, please disregard this notification or send us the confirmation receipt.
+
+For any billing inquiries, feel free to contact us at {ContactPhone}.
+Thank you for your business!
